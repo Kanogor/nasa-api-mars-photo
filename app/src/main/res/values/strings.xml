@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MarsRoverPhotos</string>
+    <string name="rover">Rover</string>
+    <string name="main_fragment_label">MainFragment</string>
+    <string name="open_photo_fragment_label">OpenPhotoFragment</string>
+    <string name="photo_transition">Photo_Transition</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="camera">Camera</string>
+    <string name="date">Date</string>
+    <string name="sol">Sol</string>
+</resources>
